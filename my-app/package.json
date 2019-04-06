@@ -23,7 +23,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://sashoeb.github.io/my-app",
+  "homepage": "https://sashoeb.github.io/travis-test/my-app/",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
